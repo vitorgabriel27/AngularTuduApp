@@ -1,0 +1,7 @@
+{
+  "name": "Tudu App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
