@@ -55,3 +55,17 @@
     box-shadow: 0px 0px 22px 5px rgba(0, 0, 0, 0.05);
     transition: all ease-in-out 0.25s;
 }
+
+.btn-style {
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 12px;
+
+  border: none;
+  outline: none;
+  transition: all 0.25s ease;
+}
+
+.btn-style:hover {
+  letter-spacing: 0.8px;
+}

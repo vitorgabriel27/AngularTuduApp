@@ -6,7 +6,11 @@ const routes: Routes = [
   {
     path: '',
     component: Tab2Page,
-  }
+  },
+  {
+    path: 'app-date-picker-two',
+    loadChildren: () => import('./app-date-picker-two/date-picker-two.module').then(m => m.DatePickerTwoModule)
+  },
 ];
 
 @NgModule({
