@@ -27,6 +27,7 @@
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
 
+@import "../node_modules/angular-calendar/css/angular-calendar.css";
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
 
@@ -54,7 +55,6 @@
     box-shadow: 0px 0px 22px 5px rgba(0, 0, 0, 0.05);
     transition: all ease-in-out 0.25s;
 }
-<<<<<<< HEAD
 
 .btn-style {
   font-size: 14px;
@@ -69,5 +69,3 @@
 .btn-style:hover {
   letter-spacing: 0.8px;
 }
-=======
->>>>>>> 0bcb115fe873edbe779af36f3e773683e8c77c89
